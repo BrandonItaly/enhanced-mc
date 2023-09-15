@@ -26,8 +26,11 @@ body:
     validations:
       required: false
   - type: textarea
-    attributes: System information
+    attributes: 
+      label: System information
       description: Add any information about what OS you are on (like Windows or Mac), and what version of the app you are using.
+    validations:
+      required: false
   - type: textarea
     attributes:
       label: Additional context
