@@ -1,0 +1,292 @@
+version:3465
+doubleTapSprint:true
+quilt_available_resource_packs:["armorchroma/alternative-icons","continuity/default","continuity/glass_pane_culling_fix","file/FreshAnimations_v1.8.1.zip","file/xali\u0027s Enchanted Books v0.12.0.zip","high_contrast","lambdabettergrass/default","minecraft/highlight_extended","minecraft/supporteatinganimation","programmer_art","vanilla"]
+autoJump:false
+operatorItemsTab:false
+autoSuggestions:true
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+enableVsync:false
+entityShadows:true
+forceUnicodeFont:false
+discrete_mouse_scroll:false
+invertYMouse:false
+realmsNotifications:true
+reducedDebugInfo:false
+showSubtitles:false
+directionalAudio:false
+touchscreen:false
+fullscreen:true
+bobView:true
+toggleCrouch:false
+toggleSprint:false
+darkMojangStudiosBackground:false
+hideLightningFlashes:false
+mouseSensitivity:0.5
+fov:0.5
+screenEffectScale:1.0
+fovEffectScale:1.0
+darknessEffectScale:1.0
+glintSpeed:0.5
+glintStrength:0.75
+damageTiltStrength:1.0
+highContrast:false
+gamma:0.5
+renderDistance:12
+simulationDistance:12
+entityDistanceScaling:1.0
+guiScale:3
+particles:0
+maxFps:260
+graphicsMode:1
+ao:true
+prioritizeChunkUpdates:0
+biomeBlendRadius:2
+renderClouds:"true"
+resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","lambdabettergrass/default","minecraft/highlight_extended","minecraft/supporteatinganimation","armorchroma/alternative-icons","file/xali\u0027s Enchanted Books v0.12.0.zip","file/FreshAnimations_v1.8.1.zip"]
+incompatibleResourcePacks:[]
+lastServer:
+lang:en_us
+soundDevice:""
+chatVisibility:0
+chatOpacity:1.0
+chatLineSpacing:0.0
+textBackgroundOpacity:0.5
+backgroundForChatOnly:true
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+overrideWidth:0
+overrideHeight:0
+chatHeightFocused:1.0
+chatDelay:0.0
+chatHeightUnfocused:0.4375
+chatScale:1.0
+chatWidth:1.0
+notificationDisplayTime:1.0
+mipmapLevels:4
+useNativeTransport:true
+mainHand:"right"
+attackIndicator:1
+narrator:0
+tutorialStep:none
+mouseWheelSensitivity:1.0
+rawMouseInput:true
+glDebugVerbosity:1
+skipMultiplayerWarning:false
+skipRealms32bitWarning:false
+hideMatchedNames:true
+joinedFirstServer:false
+hideBundleTutorial:false
+syncChunkWrites:true
+showAutosaveIndicator:true
+allowServerListing:true
+onlyShowSecureChat:false
+panoramaScrollSpeed:1.0
+telemetryOptInExtra:false
+onboardAccessibility:false
+key_key.attack:key.mouse.left
+key_key.use:key.mouse.right
+key_key.forward:key.keyboard.w
+key_key.left:key.keyboard.a
+key_key.back:key.keyboard.s
+key_key.right:key.keyboard.d
+key_key.jump:key.keyboard.space
+key_key.sneak:key.keyboard.left.shift
+key_key.sprint:key.keyboard.left.control
+key_key.drop:key.keyboard.q
+key_key.inventory:key.keyboard.e
+key_key.chat:key.keyboard.t
+key_key.playerlist:key.keyboard.tab
+key_key.pickItem:key.mouse.middle
+key_key.command:key.keyboard.slash
+key_key.socialInteractions:key.keyboard.p
+key_key.screenshot:key.keyboard.f2
+key_key.togglePerspective:key.keyboard.f5
+key_key.smoothCamera:key.keyboard.unknown
+key_key.fullscreen:key.keyboard.f11
+key_key.spectatorOutlines:key.keyboard.unknown
+key_key.swapOffhand:key.keyboard.f
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.x
+key_key.advancements:key.keyboard.l
+key_key.hotbar.1:key.keyboard.1
+key_key.hotbar.2:key.keyboard.2
+key_key.hotbar.3:key.keyboard.3
+key_key.hotbar.4:key.keyboard.4
+key_key.hotbar.5:key.keyboard.5
+key_key.hotbar.6:key.keyboard.6
+key_key.hotbar.7:key.keyboard.7
+key_key.hotbar.8:key.keyboard.8
+key_key.hotbar.9:key.keyboard.9
+key_key.custom_hud.enable:key.keyboard.unknown
+key_key.custom_hud.cycle_profiles:key.keyboard.unknown
+key_key.custom_hud.swap_to_profile1:key.keyboard.unknown
+key_key.custom_hud.swap_to_profile2:key.keyboard.unknown
+key_key.custom_hud.swap_to_profile3:key.keyboard.unknown
+key_key.custom_hud.show_errors:key.keyboard.unknown
+key_nbttooltips.keybind:key.keyboard.left.alt
+key_key.amecs.alternative_escape:key.keyboard.unknown
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown
+key_key.amecs.toggle_cape:key.keyboard.unknown
+key_key.amecs.toggle_jacket:key.keyboard.unknown
+key_key.amecs.toggle_left_sleeve:key.keyboard.unknown
+key_key.amecs.toggle_right_sleeve:key.keyboard.unknown
+key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
+key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
+key_key.amecs.toggle_hat:key.keyboard.unknown
+key_bedrockIfy.key.settings:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.gamma_utils.gamma_toggle:key.keyboard.g
+key_key.gamma_utils.increase_gamma:key.keyboard.unknown
+key_key.gamma_utils.decrease_gamma:key.keyboard.unknown
+key_key.gamma_utils.max_gamma:key.keyboard.unknown
+key_key.gamma_utils.min_gamma:key.keyboard.unknown
+key_key.gamma_utils.night_vision_toggle:key.keyboard.unknown
+key_inventorytabs.key.next_tab:key.keyboard.tab
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
+key_key.jade.show_details_alternative:key.keyboard.unknown
+key_key.modmenu.open_menu:key.keyboard.right.shift
+key_key.optigui.inspect:key.keyboard.f12
+key_Freelook:key.keyboard.r
+key_Toggle Freelook:key.keyboard.unknown
+key_key.raised.hud.down:key.keyboard.unknown
+key_key.raised.hud.up:key.keyboard.unknown
+key_key.raised.chat.down:key.keyboard.unknown
+key_key.raised.chat.up:key.keyboard.unknown
+key_rebind_all_the_keys.keybind.debug_key:key.keyboard.f3
+key_rebind_all_the_keys.keybind.reload_chunks:key.keyboard.-65
+key_rebind_all_the_keys.keybind.show_hitboxes:key.keyboard.-66
+key_rebind_all_the_keys.keybind.copy_location:key.keyboard.-67
+key_rebind_all_the_keys.keybind.clear_chat:key.keyboard.-68
+key_rebind_all_the_keys.keybind.cycle_render_distance:key.keyboard.-70
+key_rebind_all_the_keys.keybind.show_chunk_boundaries:key.keyboard.-71
+key_rebind_all_the_keys.keybind.advance_tooltips:key.keyboard.-72
+key_rebind_all_the_keys.keybind.copy_data_to_clipboard:key.keyboard.-73
+key_rebind_all_the_keys.keybind.start_stop_profiling:key.keyboard.-76
+key_rebind_all_the_keys.keybind.swap_gamemode:key.keyboard.-78
+key_rebind_all_the_keys.keybind.pause_on_lost_focus:key.keyboard.-80
+key_rebind_all_the_keys.keybind.show_debug_bindings:key.keyboard.-81
+key_rebind_all_the_keys.keybind.reload_resources:key.keyboard.-84
+key_rebind_all_the_keys.keybind.gamemode_switcher:key.keyboard.-293
+key_rebind_all_the_keys.keybind.intentional_crash:key.keyboard.-67
+key_rebind_all_the_keys.keybind.profiler:key.keyboard.-340
+key_rebind_all_the_keys.keybind.tps:key.keyboard.-342
+key_rebind_all_the_keys.keybind.quit:key.keyboard.unknown
+key_rebind_all_the_keys.keybind.toggle_hud:key.keyboard.f1
+key_rebind_all_the_keys.keybind.toggle_narrator_override:key.keyboard.unknown
+key_rebind_all_the_keys.keybind.toggle_auto_jump:key.keyboard.unknown
+key_rebind_all_the_keys.keybind.refresh_server_list:key.keyboard.f5
+key_rebind_all_the_keys.keybind.hotbar_next_override:key.keyboard.unknown
+key_rebind_all_the_keys.keybind.hotbar_previous_override:key.keyboard.unknown
+key_rebind_all_the_keys.keybind.quick_move:key.keyboard.left.shift
+key_rebind_all_the_keys.keybind.drop_stack_modifier:key.keyboard.left.control
+key_key.showmeyourskin.open_settings:key.keyboard.unknown
+key_key.showmeyourskin.global_toggle:key.keyboard.unknown
+key_Fast Mapping:key.keyboard.unknown
+key_Baritone Goal Waypoint:key.keyboard.unknown
+key_Waystones Sync:key.keyboard.unknown
+key_Persist WM Dim Switch:key.keyboard.unknown
+key_Transparent Obsidian Roof:key.keyboard.unknown
+key_Skip Background Render:key.keyboard.unknown
+key_NewChunks Highlighting:key.keyboard.unknown
+key_Save/Load NewChunks to Disk:key.keyboard.unknown
+key_OldChunks Highlighting:key.keyboard.unknown
+key_OldChunks Inverse:key.keyboard.unknown
+key_Save/Load OldChunks to Disk:key.keyboard.unknown
+key_Portal Highlights:key.keyboard.unknown
+key_PortalSkip Detection:key.keyboard.unknown
+key_PortalSkip NewChunks:key.keyboard.unknown
+key_PortalSkip OldChunks Inverse:key.keyboard.unknown
+key_Prefer Overworld Waypoints:key.keyboard.unknown
+key_Show Waypoint Distances:key.keyboard.unknown
+key_null OW Dim Dir:key.keyboard.unknown
+key_Nether Cave Fix:key.keyboard.unknown
+key_Cross Dimension Teleport:key.keyboard.unknown
+key_Show Render Distance:key.keyboard.unknown
+key_Show Render Distance WorldMap:key.keyboard.unknown
+key_Always Render Player Name:key.keyboard.unknown
+key_Always Render Player Icon:key.keyboard.unknown
+key_Fix Main Entity Dot:key.keyboard.unknown
+key_Transparent Background:key.keyboard.unknown
+key_Switch to Nether:key.keyboard.unknown
+key_Switch to Overworld:key.keyboard.unknown
+key_Switch to End:key.keyboard.unknown
+key_Waypoint Beacons:key.keyboard.unknown
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
+key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_alternative_list_players:key.keyboard.unknown
+key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
+key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown
+key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
+key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
+key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
+key_keybind.name.CHAT_PEEK:key.keyboard.unknown
+key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
+key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_2:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_3:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_4:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_5:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
+key_keybind.name.ZOOM:key.keyboard.unknown
+soundCategory_master:1.0
+soundCategory_music:1.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+soundCategory_extrasounds$master:0.5
+soundCategory_extrasounds$inventory:1.0
+soundCategory_extrasounds$action:1.0
+soundCategory_extrasounds$chat:1.0
+soundCategory_extrasounds$chat_mention:1.0
+soundCategory_extrasounds$effects:1.0
+soundCategory_extrasounds$hotbar:1.0
+soundCategory_extrasounds$typing:1.0
+soundCategory_extrasounds$item_drop:0.0
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true

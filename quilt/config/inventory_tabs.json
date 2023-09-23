@@ -1,0 +1,13 @@
+{
+  "doSightChecksFlag": true,
+  "rotatePlayer": false,
+  "excludeTab": [
+    "tiered:reforging_station",
+    "#techreborn:block_entities_without_inventories",
+    "#inventorytabs:mod_compat_blacklist",
+    "minecraft:decorated_pot",
+    "minecraft:chiseled_bookshelf"
+  ],
+  "includeTab": [],
+  "debugEnabled": false
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/xali's+Enchanted+Books+v0.12.0.zip",
+    "minecraft/highlight_extended",
+    "minecraft/supporteatinganimation",
+    "armorchroma/alternative-icons",
+    "lambdabettergrass/default",
+    "continuity/default",
+    "continuity/glass_pane_culling_fix"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "minecraft/supporteatinganimation": {
+      "hidden": false
+    },
+    "armorchroma/alternative-icons": {
+      "force_compatible": true,
+      "hidden": false
+    },
+    "lambdabettergrass/default": {
+      "force_compatible": true,
+      "hidden": false
+    },
+    "continuity/default": {
+      "hidden": false
+    },
+    "continuity/glass_pane_culling_fix": {
+      "hidden": false
+    }
+  }
+}

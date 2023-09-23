@@ -1,0 +1,7 @@
+name = "raisedxinventoryprofilesnext"
+filename = "raisedxinventoryprofilesnext-fabric-1.20.1-1.10.6.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/l1xjmRyA/raisedxinventoryprofilesnext-fabric-1.20.1-1.10.6.jar"
+hash-format = "sha256"
+hash = "d202ff6db9246ff84f8d70867d14fa260c13f5eb5af9b63b2f545f282841f438"

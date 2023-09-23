@@ -1,0 +1,7 @@
+name = "raisedxarmorchroma"
+filename = "raisedxarmorchroma-fabric-1.20.1-1.2.6.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/l1xjmRyA/raisedxarmorchroma-fabric-1.20.1-1.2.6.jar"
+hash-format = "sha256"
+hash = "219436cfc2f05d9eb7a7df5ab493c739651f37f052276b7be67708325a205c96"
