@@ -1,7 +1,8 @@
 name: Setup repository | Workflow
 
 on:
-  create
+  create:
+  workflow_dispatch:
 
 jobs:
   disable-workflow:
@@ -32,4 +33,4 @@ jobs:
     if: github.event.ref == github.event.master_branch
     uses: ./.github/workflows/bump-version-release.yml
     with:
-      release-tag: 0.1.0
+      release-tag: 1.0.0
